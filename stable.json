@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "version": "1.1.0",
+  "url": "https://raw.githubusercontent.com/cyan881990/automail-composer-updates/870ec5a48031b66202c877c0a8e0c9b3079813fe/packages/AutoMailComposer-1.1.0.zip",
+  "sha256": "f6178b1876dbff3b0ed20680cab22861132f4815604b1b97b9222d12f4ead045",
+  "size": 28461,
+  "min_python": [
+    3,
+    11
+  ]
+}
